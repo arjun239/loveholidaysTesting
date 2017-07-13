@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.loveholidays.mmbtesting.MMBTest2" duration-ms="24625" started-at="2017-07-13T06:36:30Z" finished-at="2017-07-13T06:36:54Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="24625" started-at="2017-07-13T06:36:30Z" finished-at="2017-07-13T06:36:54Z">
+      <class name="com.loveholidays.mmbtesting.MMBTest2">
+        <test-method status="PASS" signature="chromeExtension()[pri:0, instance:com.loveholidays.mmbtesting.MMBTest2@6108b2d7]" name="chromeExtension" is-config="true" duration-ms="8034" started-at="2017-07-12T23:36:30Z" finished-at="2017-07-12T23:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeExtension -->
+        <test-method status="PASS" signature="Scenario2()[pri:0, instance:com.loveholidays.mmbtesting.MMBTest2@6108b2d7]" name="Scenario2" duration-ms="15347" started-at="2017-07-12T23:36:38Z" finished-at="2017-07-12T23:36:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario2 -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.loveholidays.mmbtesting.MMBTest2@6108b2d7]" name="tearDownMethod" is-config="true" duration-ms="1212" started-at="2017-07-12T23:36:53Z" finished-at="2017-07-12T23:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.loveholidays.mmbtesting.MMBTest2 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.loveholidays.mmbtesting.MMBTest2 -->
+</testng-results>

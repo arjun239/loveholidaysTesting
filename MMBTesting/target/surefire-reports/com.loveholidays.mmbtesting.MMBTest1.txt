@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.loveholidays.mmbtesting.MMBTest1
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 24.85 sec <<< FAILURE!
+Scenario1(com.loveholidays.mmbtesting.MMBTest1)  Time elapsed: 15.572 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:286)
+	at org.testng.Assert.assertEquals(Assert.java:296)
+	at com.loveholidays.mmbtesting.MMBTest1.Scenario1(MMBTest1.java:64)
