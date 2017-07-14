@@ -34,7 +34,7 @@ public class MMBTest2 {
     @BeforeTest
     public void chromeExtension()
     {
-     System.setProperty("webdriver.chrome.driver", "C:\\Users\\Arjun\\chromedriver\\chromedriver.exe"); 
+     System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
   
      driver=new ChromeDriver();
     }
